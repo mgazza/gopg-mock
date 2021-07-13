@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	goPgMock "github.com/yusufsyaifudin/gopg-mock"
+	goPgMock "github.com/mgazza/gopg-mock"
 )
 
 // a successful case

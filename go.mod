@@ -1,4 +1,4 @@
-module github.com/yusufsyaifudin/gopg-mock
+module github.com/mgazza/gopg-mock
 
 go 1.13
 
